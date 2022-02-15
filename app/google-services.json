@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201474407778",
+    "project_id": "reminday-404b5",
+    "storage_bucket": "reminday-404b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201474407778:android:1fd005cb0dcd211108803b",
+        "android_client_info": {
+          "package_name": "com.example.reminday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201474407778-v4ss5ocsj6514dhrhrdb7udf1ebn9ejc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjlyIbkga9zzyryGpbLJasV6oKZJ-n0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201474407778-v4ss5ocsj6514dhrhrdb7udf1ebn9ejc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
